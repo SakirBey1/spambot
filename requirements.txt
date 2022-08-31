@@ -1,0 +1,10 @@
+python-decouple
+Telethon
+heroku3
+heroku
+python-dotenv
+asyncio
+TgCrypto
+requests
+pyGithub
+Pillow
