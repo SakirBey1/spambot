@@ -16,3 +16,4 @@ def load_plugins(plugin_name):
   spec.loader.exec_module(load)
   sys.modules["SAKIR.plugins." + plugin_name] = load
   print("𝕤𝕡𝕒𝕞 𝕘ö𝕟𝕕𝕖𝕣𝕚𝕔𝕚 𝕓𝕠𝕥 𝕚ç𝕖 𝕒𝕜𝕥𝕒𝕣𝕕ı" + plugin_name)
+
