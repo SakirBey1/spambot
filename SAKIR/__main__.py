@@ -4,7 +4,7 @@
 import glob
 from pathlib import Path
 from SAKIR.utils import load_plugins
-import loggin
+import logging
 from . import worker 
 
 
