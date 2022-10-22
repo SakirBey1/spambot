@@ -2,7 +2,7 @@
 # Geliştirici : @SakirBey1
 
 import sys 
-import loggin
+import logging
 import importlib
 from telethon import TelegramClient, events
 from pathlib import Path
