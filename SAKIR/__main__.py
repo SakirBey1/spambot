@@ -1,5 +1,5 @@
 # Developer : @SakirBey1
-# Geliştirici : @SakşirBey1
+# Geliştirici : @SakirBey1
 
 import glob
 from pathlib import Path
