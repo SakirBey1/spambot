@@ -8,8 +8,8 @@ import logging
 from . import worker 
 
 
-loggin.basicConfig(format='[%(levelname) 5s/%(asctime)s]: %(message)s',
-                   level=loggin.WARNING)
+logging.basicConfig(format='[%(levelname) 5s/%(asctime)s]: %(message)s',
+                   level=logging.WARNING)
 
 path = "SAKIR/plugins/*.py"
 files = glob.glob(path)
